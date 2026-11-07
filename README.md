@@ -43,4 +43,4 @@ streamlit run app.py
 
 ## Приложение в Streamlit Community Cloud
 
-<ссылка появится после деплоя>
+https://mmad3-alibaeva.streamlit.app
